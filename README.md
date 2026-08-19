@@ -60,6 +60,7 @@ Added:
  - `Ctrl+Z` to Undo;
  - `E` to cycle brush colour; `Shift+E` to cycle brush colour back; `Ctrl+E` to show the current brush colour on the screen;
 </details>
+
 - Forced fullscreen (probably will change that to toggleable *At Some Point™*)
 - An intro
 - Textual feedback

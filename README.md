@@ -49,6 +49,7 @@ Initial release.
 Added:
 - All the keybinds:
 <details>
+ 
  - Help text, triggered with `H`;
  - `=` and `-` to increase and decrease the brush size; `Ctrl+=` and `Ctrl+-` to show the current brush size on the screen;
  - `C` to clear the canvas;

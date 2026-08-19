@@ -1,4 +1,4 @@
-<div align="center">![PYpaint Logo](assets/Screenshot_20260820_013511.png)</div>
+<div align="center"><img src="[https://www.github.com/axxydr1xed/PYpaint](https://github.com/axxydr1xed/PYpaint/blob/main/assets/Screenshot_20260820_013511.png?raw=true)"></div>
 # PYpaint
 ## (it's pronounced Pie-Paint)
 A simple drawing program built entirely with Python, primarily using the `turtle` library and its `tkinter` backend.
